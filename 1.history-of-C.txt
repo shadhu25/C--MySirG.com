@@ -1,0 +1,22 @@
+why C language is so important?
+	Oracle is written in C
+	Core libraries of android are written in C
+	MySQL is written in C
+	Almost every device is written in C
+	Major part of web browser is written in C
+	Unix operating system is develped in C
+	C is world's most popular programming language
+	
+	For students
+		C is importent to build programming skills
+		C covers basic features of all programming language
+		Campus recruitment process
+		C is the most popular language for hardware dependent programming
+
+History of C language
+
+	Martin Richards is the developer of BCPL(basic combined programming language) developed in 1966.
+	Ken Thompson is the developer of B language, developed in 1969. also developer of UNIX operating system.
+	Dennis Richie is the developer of C language, developed in 1972 at AT & T's Bell Laboratory, USA
+	also Co-developer of UNIX operating system.
+		
