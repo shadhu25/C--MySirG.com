@@ -1,0 +1,30 @@
+What is Computer?
+	
+	Computer is an electonic device that takes inputs, process it and give output.
+
+What is 0 and 1 ?
+
+	There is nothing like 0 and 1 in Computer.	
+	There is no physical signicance of 0 and 1.
+	Any information can be encoded as a sequence of 0 and 1.
+	
+What is Hardware ?
+
+	Hardware is a comprehensive term for all of physical parts of a computer, as distinguished from the data it contains or operates on, and the software that provides instructions for the hardware to accomplish tasks.
+	Hardware is anything which is tangible.
+	
+What is file :- File is data bundle. Ex- list.txt, sum.exe, track1.mp3.
+
+Program and Process
+
+	Set of instruction is called program.
+	Active state od a program is called process.
+	
+Operating System
+
+	It is a system software.
+	Examples are DOS, Windows XP, Windows vista, Windows 7, Windows 8, SOlaris, Macintoch, Linux, Ubuntu etc.
+	It provides interface between user and machine.
+	Acts as a manager of the computer system.
+	it does process management, memory management, file management.
+	
