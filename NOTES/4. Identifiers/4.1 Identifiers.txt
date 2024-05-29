@@ -1,0 +1,25 @@
+Constant
+
+	Any information is constant.
+	Data = Information = Constant
+	
+Type of Constants
+	
+	Primary constant
+		Integers Ex:- 2, -3, 45 etc
+		Real Ex:- -2.0, 3.44, 333.44 etc
+		
+	Secondary Constant
+		Array, String, Pointer, Union, Structure, Enumerator
+
+Variables
+
+	Variables are the names of memory locations where we store our data.
+	Variable name is any combination of alphabet, digitnand underscore.
+	
+Keywords 
+
+	predefined words are called keywords.(reserved words)
+	there are 32 keywords in C language.
+	
+		
