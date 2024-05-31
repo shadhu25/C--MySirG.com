@@ -1,0 +1,18 @@
+Instruction
+
+	Program statements are called instructions.
+	Instructions are commands.
+	
+Type of Instructions :-
+	Data Type Declaration Instruction
+	Input Outout Instruction
+	Arithmetic Instruction
+	Control Instruction
+	
+Data Types
+	int     2 bytes
+	char    1 byte
+	float   4 bytes
+	double  8 bytes
+	void    empty
+	
