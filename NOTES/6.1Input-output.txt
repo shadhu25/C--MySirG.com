@@ -1,0 +1,12 @@
+Standard input output device
+    Keyboard is standard input device
+    Monitor is standard output device
+
+printf()
+    printf() is not a keyword
+    printf() is a predefined function
+
+    Two type of messages
+        Printing text as it is.
+        Printing value of expression or value of variable
+        
